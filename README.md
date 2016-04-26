@@ -170,5 +170,8 @@ Ir para:
 
 - [Primer on Python Decorators](https://realpython.com/blog/python/primer-on-python-decorators/)
 - [Protocol RPC field classes](https://cloud.google.com/appengine/docs/python/tools/protorpc/messages/fieldclasses)
-- [Google Scafolding](https://github.com/GoogleCloudPlatform/appengine-endpoints-helloendpoints-python)
+- [Google Scafolding](https://github.com/googlearchive/appengine-endpoints-helloendpoints-python)
     - Hello World com autenticação
+    - [Salvei o zip](appengine-endpoints-helloendpoints-python-master.zip)
+- [APIs Explorer](https://developers.google.com/apis-explorer/#p/)
+    - [Experimente API do Google Translate](https://youtu.be/sQyQQaD4-5Y)
